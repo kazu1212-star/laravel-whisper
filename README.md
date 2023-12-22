@@ -18,6 +18,8 @@ Get your API key:https://platform.openai.com/account/api-keys
 そのため課金する必要があります。 
 有料には最低でも$5かかります。 Billing settings:https://platform.openai.com/account/billing/overview
 
+参考
+https://github.com/tectalichq/public-openai-client-php
 4. APIkeyをセット
 ```
 // .envファイル
